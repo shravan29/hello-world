@@ -1,8 +1,8 @@
 £!/bin/python
 
-str = "Hello World!";
+str = "Hello World from {}!";
 
-print(str);
+print(str).format("Shravan");
 
 exit(0);
 
